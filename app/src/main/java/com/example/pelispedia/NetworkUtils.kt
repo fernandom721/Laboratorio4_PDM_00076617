@@ -10,7 +10,7 @@ import javax.net.ssl.HttpsURLConnection
 class NetworkUtils{
 
     val MOVIES_API_BASEURL = "http://omdbapi.com"
-    val TOKEN_API = "8b0b11f6"
+    val TOKEN_API = "5a15fd67"
 
     fun  buildSearchUrl(movieName: String): URL {
         val builtUri = Uri.parse(MOVIES_API_BASEURL)
