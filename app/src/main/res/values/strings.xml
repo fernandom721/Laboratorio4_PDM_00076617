@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Pelispedia</string>
     <string name="movie_name_string">Nombre</string>
+    <string name="runtime_ex_string">movie_title</string>
+    <string name="lorem_30_string">sinopsis</string>
 </resources>
